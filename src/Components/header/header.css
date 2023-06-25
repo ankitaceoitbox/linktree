@@ -1,0 +1,8 @@
+.headerImg {
+  height: 150px;
+  width: 150px;
+  object-fit: contain;
+}
+.headertext {
+  color: ghostwhite;
+}
